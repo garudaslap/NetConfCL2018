@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RskManager", "RskManager\RskManager.csproj", "{CFB3BE8E-3D54-4590-9568-FDCE20424382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RskManager.Tests", "RskManager.Tests\RskManager.Tests.csproj", "{2B7F3E92-D2E1-4E2E-B396-EE34FDF159DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB3BE8E-3D54-4590-9568-FDCE20424382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB3BE8E-3D54-4590-9568-FDCE20424382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB3BE8E-3D54-4590-9568-FDCE20424382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB3BE8E-3D54-4590-9568-FDCE20424382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7F3E92-D2E1-4E2E-B396-EE34FDF159DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7F3E92-D2E1-4E2E-B396-EE34FDF159DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7F3E92-D2E1-4E2E-B396-EE34FDF159DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7F3E92-D2E1-4E2E-B396-EE34FDF159DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
